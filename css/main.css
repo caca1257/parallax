@@ -58,7 +58,13 @@ body {
 	z-index: 7;
 	transform: translateZ(-4px) scale(5);
 }
-
+.parallax-9{
+	width: 100%;
+	z-index: 0;
+	transform:translateZ(-1px) scale(5);
+	/*margin-top: 300px;*/
+	bottom: 300px;
+}
 .parallax-4 {
 	z-index: 9;
 	transform: translateZ(-1px) scale(2);

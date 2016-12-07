@@ -44,3 +44,5 @@ $(".parallax").scroll(function() {
 	}
 	
 });
+
+//credited to Soo Rin Park for this awesome code! 
